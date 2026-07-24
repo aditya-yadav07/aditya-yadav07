@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Aditya Yadav
 
-### 🚀 AI Engineer in Progress | Engineering Physics @ DTU
+### 🚀 AI & ML Engineer | Engineering Physics @ DTU
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Artificial+Intelligence;Machine+Learning;Software+Engineering;Computer+Vision;Building+the+Future+with+Code"/>
 
