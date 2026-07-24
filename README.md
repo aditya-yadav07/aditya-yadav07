@@ -1,3 +1,4 @@
+<img width="1774" height="886" alt="24272" src="https://github.com/user-attachments/assets/a2ea68ad-b703-46f6-b22d-e71535c18a97" />
 <div align="center">
 
 # 👋 Hi, I'm Aditya Yadav
