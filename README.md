@@ -1,9 +1,9 @@
 <img width="1774" height="886" alt="24272" src="https://github.com/user-attachments/assets/a2ea68ad-b703-46f6-b22d-e71535c18a97" />
 <div align="center">
 
-# 👋 Hi, I'm Aditya Yadav
+#  Hi, I'm Aditya Yadav
 
-### 🚀 AI & ML Engineer | Engineering Physics @ DTU
+###  AI & ML Engineer | Engineering Physics @ DTU
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Artificial+Intelligence;Machine+Learning;Software+Engineering;Computer+Vision;Building+the+Future+with+Code"/>
 
