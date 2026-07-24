@@ -1,45 +1,38 @@
-# Hi there 👋, I'm Aditya Yadav
-
 <div align="center">
 
-# 🚀 AI Engineer in Progress | Engineering Physics @ DTU
+# 👋 Hi, I'm Aditya Yadav
 
-### Building Intelligent Systems Today. Engineering the Future Tomorrow.
+### 🚀 AI Engineer in Progress | Engineering Physics @ DTU
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%7C+Machine+Learning;Software+Engineering;Computer+Vision;Open+Source+Learner;Future+Robotics+Engineer" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Artificial+Intelligence;Machine+Learning;Software+Engineering;Computer+Vision;Building+the+Future+with+Code"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 💫 About Me
 
-I'm **Aditya Yadav**, an Engineering Physics student at **Delhi Technological University (DTU)** with a strong passion for Artificial Intelligence, Machine Learning, Robotics, and Software Engineering.
+🎓 Engineering Physics Student at DTU
 
-My goal is to build intelligent systems that solve real-world problems and contribute to cutting-edge technology.
+🤖 Passionate about Artificial Intelligence & Machine Learning
 
-Currently focusing on:
+💻 Learning Software Engineering & DSA
 
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 💻 Software Development
-- 📚 Data Structures & Algorithms
-- ⚡ Open Source
-- 🔬 Computer Vision
+🚀 Building projects that solve real-world problems
+
+🎯 Goal: Become an AI Engineer at a top tech company
 
 ---
 
-## 🛠 Tech Stack
+# 🛠️ Tech Stack
 
 ### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ---
 
@@ -51,111 +44,68 @@ Currently focusing on:
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
 
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn)
 
 ---
 
-### Tools
+# 📊 GitHub Statistics
 
-Git • GitHub • VS Code • Linux • Jupyter Notebook
+![](https://github-readme-stats.vercel.app/api?username=aditya-yadav07&show_icons=true&theme=tokyonight&hide_border=true)
 
----
-
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aditya-yadav07 &show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-yadav07 &layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-yadav07&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=aditya-yadav07 &theme=tokyonight&hide_border=true"/>
-
-</p>
+![](https://streak-stats.demolab.com?user=aditya-yadav07&theme=tokyonight&hide_border=true)
 
 ---
 
-## 📊 Contribution Graph
+# 📈 Contribution Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aditya-yadav07&theme=tokyo-night)](https://github.com/aditya-yadav07)
 
 ---
 
-# 🚀 Current Learning
+# 🚀 Currently Learning
 
-- Data Structures & Algorithms
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Reinforcement Learning
-- Generative AI
-- Robotics
-
----
-
-# 📂 Featured Projects
-
-⭐ AI Resume Analyzer
-
-⭐ Face Recognition Attendance System
-
-⭐ Object Detection using YOLO
-
-⭐ ChatGPT Clone
-
-⭐ Medical Image Classification
-
-⭐ Jarvis AI Assistant
-
-⭐ Autonomous Drone Vision
-
-⭐ Stock Price Prediction
+- ✅ Python
+- ✅ C Programming
+- 🔄 C++
+- 🔄 Data Structures & Algorithms
+- 🔄 Machine Learning
+- 🔄 Deep Learning
+- 🔄 Computer Vision
+- 🔄 Robotics
 
 ---
 
 # 🎯 2026 Goals
 
-- Contribute to Open Source
-- Master DSA
-- Build Production AI Applications
-- Publish Technical Projects
-- Earn GitHub Achievements
-- Land a Software/AI Internship
+- 🌟 Build 25+ Projects
+- 🌟 Master DSA
+- 🌟 Learn Deep Learning
+- 🌟 Contribute to Open Source
+- 🌟 Earn GitHub Achievements
+- 🌟 Land an AI/ML Internship
 
 ---
 
-## 🌐 Connect With Me
+# 📂 Featured Projects
 
-GitHub:
-https://github.com/aditya-yadav07 
+🚧 Coming Soon...
 
-LinkedIn:
+---
 
+# 🌐 Connect With Me
 
-Portfolio:
-
-
-Email:
-aditya.yaduvanshi2109@gmail.com
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/aditya-yadav07)
 
 ---
 
 <div align="center">
 
-### 💡 Quote
-
-*"Great engineers don't just write code—they build the future."*
-
-⭐ Thanks for visiting my profile!
+### ⭐ "Building intelligent systems today to shape the technology of tomorrow."
 
 </div>
-
-
