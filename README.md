@@ -65,9 +65,9 @@ Git • GitHub • VS Code • Linux • Jupyter Notebook
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aditya-yadav07 &show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-yadav07 &layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -77,7 +77,7 @@ Git • GitHub • VS Code • Linux • Jupyter Notebook
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=aditya-yadav07 &theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -85,7 +85,7 @@ Git • GitHub • VS Code • Linux • Jupyter Notebook
 
 ## 📊 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aditya-yadav07&theme=tokyo-night)](https://github.com/aditya-yadav07)
 
 ---
 
