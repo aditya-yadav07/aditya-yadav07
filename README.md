@@ -73,7 +73,7 @@
 
 - ✅ Python
 - ✅ C Programming
-- 🔄 C++
+- ✅ C++
 - 🔄 Data Structures & Algorithms
 - 🔄 Machine Learning
 - 🔄 Deep Learning
